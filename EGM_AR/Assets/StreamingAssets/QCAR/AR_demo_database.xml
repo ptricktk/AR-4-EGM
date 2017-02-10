@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Kaartje_Voor_Cock_vande_Griend" size="0.085000 0.132763" />
+    <ImageTarget name="Kaartje_Voor_Bernard_Loose" size="0.085000 0.132763" />
+    <ImageTarget name="Kaartje_Voor_Patrick_Tak" size="0.085000 0.132763" />
+    <ImageTarget name="Kaartje_Achter_EGMa" size="0.085000 0.132763" />
+    <ImageTarget name="Floorplan_Level_2_EGM" size="1.000000 1.414196" />
+    <ImageTarget name="interieur_tag" size="1.000000 0.666504" />
+    <ImageTarget name="office_tag" size="1.000000 0.725098" />
+    <ImageTarget name="single_image_target_pbe" size="0.500000 0.500000" />
+  </Tracking>
+</QCARConfig>
