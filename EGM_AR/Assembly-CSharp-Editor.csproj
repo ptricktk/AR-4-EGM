@@ -58,6 +58,7 @@
      <Compile Include="Assets\Vuforia\Editor\Scripts\VuforiaConfigurationEditor.cs" />
      <None Include="Assets\license_3rdpartynotice.txt" />
      <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\AR_demo_database.xml" />
      <None Include="Assets\StreamingAssets\QCAR\sodacan.xml" />
      <None Include="Assets\SamplesResources\CloudReco\Shaders\CR_Custom_TransparentUnlit.shader" />
      <None Include="Assets\link.xml" />
@@ -65,7 +66,6 @@
      <None Include="Assets\readme_SDK.txt" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
      <None Include="Assets\StreamingAssets\QCAR\StonesAndWood.xml" />
-     <None Include="Assets\StreamingAssets\QCAR\AR_demo_database.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\StreamingAssets\QCAR\StonesAndChips.xml" />
      <None Include="Assets\StreamingAssets\Vuforia\Vuforia.xml" />
